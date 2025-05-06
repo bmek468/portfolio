@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio website
 
 Simple portfolio website created with ReactJS and Vite tool.
@@ -12,3 +13,6 @@ All details are stored in `src/config.js`, it can be changed from there to chang
 Fetched repositories details are stored in local storage. These details refetched again after 3600 seconds when user visits.
 
 All Repositories are shown as Projects, fetched using the GitHub API using username of the user which is also stored in `src/config.js`
+=======
+# portfolio
+>>>>>>> 12c84fa55f3687561cc65d9aea29d43b830f12b9
